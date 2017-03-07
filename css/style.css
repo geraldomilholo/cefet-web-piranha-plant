@@ -19,3 +19,17 @@
 .image {
 	border: 4px solid limegreen;
 }
+
+.center {
+	text-align: center;
+}
+
+td, th {
+  border: 1px solid silver;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 500px;
+}
